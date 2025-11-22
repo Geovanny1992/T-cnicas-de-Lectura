@@ -83,3 +83,17 @@ Escribe un resumen de 3–7 líneas:
 ¿Qué es lo esencial?
 ¿Qué dudas te quedan?
 👉 Esto consolida el conocimiento.
+
+
+# 🧩 Ejemplo rápido del proceso
+Texto técnico: Server Core de Windows Server
+Prelectura: veo que hablan de instalación, roles, ventajas.
+Propósito: entender para qué sirve.
+Bloques: leo la sección “Ventajas”.
+Explico: “Server Core usa menos recursos y es más seguro.”
+Términos: GUI, Sconfig.
+Conecto: GUI = interfaz gráfica; Server Core = servidor sin GUI.
+Pregunta: ¿qué roles no se pueden instalar?
+Ignoro detalles como parámetros de PowerShell por ahora.
+Esquema: GUI vs Server Core – ventajas y desventajas.
+Resumen: Server Core es ideal para servidores seguros y ligeros.
